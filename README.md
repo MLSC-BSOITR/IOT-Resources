@@ -1,5 +1,6 @@
 # IOT-Resources MLSC BSIOTR : 
 
+credits : https://github.com/mikeroyal/IoT-Guide
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/146080708-26611923-bea3-4689-9765-f92cc59edc07.png">
   <br />
